@@ -102,6 +102,11 @@ header > button {
 	cursor:pointer;
 }
 
+header > button:hover {
+	background:#EEEEEE;
+	color:black;
+}
+
 .gal-section {
 	width:33.33%;
 	float:left;
