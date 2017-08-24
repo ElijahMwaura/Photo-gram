@@ -12,9 +12,4 @@ $(document).ready(function() {
 		$("#pop-up-nav").css({"display":"none"});
 		$("body").css({"overflow": "visible"});
 	});
-	
-	$("#pop-up-nav").click(function() {
-		$("#pop-up-nav").css({"display":"none"});
-		$("body").css({"overflow": "visible"});
-	});
 });
